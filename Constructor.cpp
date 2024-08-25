@@ -11,7 +11,8 @@ string name;
 string city;
 
 //here we have created two constructor(default and parameteised) but calling one parameterised cons so this concep is called constructor overloading.
-// name same but parameter diff -> constructor overloading
+// name same but parameter diff -> constructor overloading khkhusrgs
+//sameeksha dubey 
 Teacher(){      // default constructor 
     cout<<"defauly cons calling";
 }
